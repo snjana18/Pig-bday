@@ -21,6 +21,8 @@ min-width: 100%;
 .bk1{
 background-image:url('image1.jpg');
 background-size: contain;
+background-repeat: no-repeat;
+background-position:center;
 }
 
 .bk2{
